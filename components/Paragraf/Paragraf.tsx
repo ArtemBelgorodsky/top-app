@@ -19,4 +19,4 @@ const Paragraf = ({children, size = 'small', className, ...props}: ParagrafProps
   
 }
 
-export default Paragraf
+export default Paragraf;
